@@ -1,0 +1,20 @@
+[
+    {"name": "1st Generation (Nehalem)"},
+    {"name": "2nd Generation (Sandy Bridge)"},
+    {"name": "3rd Generation (Ivy Bridge)"},
+    {"name": "4th Generation (Haswell)"},
+    {"name": "5th Generation (Broadwell)"},
+    {"name": "6th Generation (Skylake)"},
+    {"name": "7th Generation (Kaby Lake)"},
+    {"name": "8th Generation (Coffee Lake)"},
+    {"name": "9th Generation (Coffee Lake Refresh)"},
+    {"name": "10th Generation (Comet Lake)"},
+    {"name": "11th Generation (Tiger Lake)"},
+    {"name": "12th Generation (Alder Lake)"},
+    {"name": "Ryzen 1000 Series (Zen)"},
+    {"name": "Ryzen 2000 Series (Zen+)"},
+    {"name": "Ryzen 3000 Series (Zen 2)"},
+    {"name": "Ryzen 4000 Series (Zen 2)"},
+    {"name": "Ryzen 5000 Series (Zen 3)"},
+    {"name": "Ryzen 6000 Series (Zen 4)"}
+]

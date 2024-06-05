@@ -1,0 +1,6 @@
+[
+    {"name": "DDR2", "speed": "800"},
+    {"name": "DDR3", "speed": "1333"},
+    {"name": "DDR4", "speed": "2400"},
+    {"name": "DDR5", "speed": "3200"}
+]

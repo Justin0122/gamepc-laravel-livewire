@@ -1,0 +1,20 @@
+[
+    {"name": "Mini-ITX", "width": "170", "depth": "170"},
+    {"name": "Micro-ATX", "width": "244", "depth": "244"},
+    {"name": "ATX", "width": "305", "depth": "244"},
+    {"name": "E-ATX", "width": "305", "depth": "330"},
+    {"name": "XL-ATX", "width": "305", "depth": "330"},
+    {"name": "HPTX", "width": "345", "depth": "330"},
+    {"name": "SSI-CEB", "width": "305", "depth": "267"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"},
+    {"name": "SSI-MEB", "width": "305", "depth": "267"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"},
+    {"name": "SSI-EEB", "width": "305", "depth": "330"}
+]
